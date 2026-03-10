@@ -10,5 +10,21 @@
 {
 "question":"What is JavaScript?",
 "answer":"JavaScript makes websites interactive."
+},
+{
+"question":"What is an Algorithm?",
+"answer":"A step-by-step procedure to solve a problem."
+},
+{
+"question":"What is a Compiler?",
+"answer":"A program that converts source code into machine code."
+},
+{
+"question":"What is Git?",
+"answer":"Git is a version control system."
+},
+{
+"question":"What is GitHub?",
+"answer":"GitHub is a platform to host and manage code repositories."
 }
 ]
