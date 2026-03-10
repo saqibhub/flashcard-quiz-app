@@ -1,0 +1,14 @@
+[
+{
+"question":"What is HTML?",
+"answer":"HTML is used to create web pages."
+},
+{
+"question":"What is CSS?",
+"answer":"CSS is used for styling websites."
+},
+{
+"question":"What is JavaScript?",
+"answer":"JavaScript makes websites interactive."
+}
+]
